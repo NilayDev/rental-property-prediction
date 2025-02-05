@@ -10,7 +10,7 @@ import os.path
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets', 'https://www.googleapis.com/auth/drive']
 
 # Path to your OAuth 2.0 credentials JSON file
-CREDENTIALS_FILE = 'client_secret_460166541783-kknh69kg925o5voitl6d0cgjg2sjdtka.apps.googleusercontent.com.json'
+CREDENTIALS_FILE = 'client_secret.json'
 
 # Path to save the token file (to avoid re-authenticating every time)
 TOKEN_FILE = 'token.json'

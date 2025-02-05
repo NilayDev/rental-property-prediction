@@ -5,6 +5,7 @@ Ensure you have the following installed:
 - Python 3.x
 - pip (Python package manager)
 - Virtual environment (optional but recommended)
+- Add google account credentials in the 'client_secret.json' and 'token.json' files in order to create new spreadsheet in that account.
 
 ## Installation
 1. **Clone the repository**
